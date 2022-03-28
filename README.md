@@ -11,8 +11,8 @@
 <a href="https://linkedin.com/in/abhinav-katore-a435931b1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/abhinav-katore-a435931b1" height="30" width="40" /></a>
 </p>
 
-
-
+<br>
+<br><br><br><br><br><br><br><br><br>
 
 
 
@@ -22,4 +22,6 @@
 
 
 Top Most Repo Hits<br>
+![image](https://user-images.githubusercontent.com/67780238/160438566-ef74c82a-691c-47c6-bcd8-f33307d3f061.png)
+
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/67780238/160436676-0eda4aff-27bc-4664-81eb-f3cb9d6303b2.gif)
