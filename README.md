@@ -13,7 +13,7 @@
 <br>
 <br><br><br><br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhinow-katore)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhinow-katore&theme=dark)](https://git.io/streak-stats)
 <h1>Repo of the Year </h1><br>
 https://github.com/Abhinow-katore/2D-Video_to_3D-Animation
 
