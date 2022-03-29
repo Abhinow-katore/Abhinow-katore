@@ -20,5 +20,5 @@
 </a>
 
 <a href="https://github.com/Abhinow-katore/DSA-Crackert">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinow-katore&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinow-katore&repo=DSA-Crackert&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
