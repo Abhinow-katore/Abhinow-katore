@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AbhiNOW</h1>
+![image](https://user-images.githubusercontent.com/67780238/160662739-756ec275-33e3-4eaa-8141-8ebd5d69b008.png)
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/67780238/114828234-4b398880-9de7-11eb-8bfc-e1e42a4afb4d.gif">
 
