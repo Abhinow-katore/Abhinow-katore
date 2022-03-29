@@ -1,5 +1,4 @@
 ![image](https://user-images.githubusercontent.com/67780238/160662872-a3552baf-f20e-4003-8bc8-6a5b77aaf0ab.png)
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/67780238/114828234-4b398880-9de7-11eb-8bfc-e1e42a4afb4d.gif">
 
 
