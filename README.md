@@ -15,4 +15,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhinow-katore&theme=dark)](https://git.io/streak-stats)
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Abhinow-katore&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Abhinow-katore&theme=dark" />
