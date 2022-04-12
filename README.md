@@ -11,6 +11,7 @@
 </p>
 <br>
 <br><br><br><br><br>
+![](https://komarev.com/ghpvc/?username=Abhinow-katore&style=flat-square)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhinow-katore&theme=dark)](https://git.io/streak-stats)
 <br>
