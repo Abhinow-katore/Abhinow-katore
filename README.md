@@ -11,6 +11,7 @@
 </p>
 <br>
 <br><br><br><br><br>
+![](https://komarev.com/ghpvc/?username=abhinow-katore)
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhinow-katore&theme=dark)](https://git.io/streak-stats)
@@ -18,4 +19,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinow-katore&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhinow-katore&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abhinav's GitHub Stats" />
 </a>
-![](https://komarev.com/ghpvc/?username=abhinow-katore)
+
