@@ -11,6 +11,7 @@
 </p>
 <br>
 <br><br><br><br><br>
+<h2> ## 🏆 Github Stats </h2>
 <a href="https://github.com/Abhinow-katore/github-readme-activity-graph"><img alt="Abhinow's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhinow-katore&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>
 <br>
 
