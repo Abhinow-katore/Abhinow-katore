@@ -11,7 +11,7 @@
 </p>
 <br>
 <br><br><br><br><br>
-
+<a href="https://github.com/Abhinow-katore/github-readme-activity-graph"><img alt="Abhinow's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhinow-katore&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhinow-katore&theme=dark)](https://github.com/Abhinow-katore/Abhinow-katore)
